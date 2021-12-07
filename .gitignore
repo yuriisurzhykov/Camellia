@@ -2,7 +2,7 @@
 # Compiled class file
 *.class
 
-# Log file
+# com.yuriysurzhykov.camellia.utils.Log file
 *.log
 
 # BlueJ files
@@ -10,6 +10,9 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+
+.idea/
+Camellia.iml
 
 # Package Files #
 *.jar
